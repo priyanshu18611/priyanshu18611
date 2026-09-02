@@ -17,21 +17,10 @@
 
 ---
 
-### 📡 Telemetry & Overview
-
-```json
-{
-  "system_entity": "Priyanshu Kumar",
-  "degree": "B.Tech in Computer Science & Engineering",
-  "alma_mater": "Shershah Engineering College, Sasaram (2022 - 2026)",
-  "specializations": ["Computer Vision", "Real-Time Telemetry Systems", "Predictive Analytics", "Full-Stack Web"],
-  "industrial_experience": [
-    { "role": "Signal & Telecom Intern", "org": "East Central Railway (ECR)" },
-    { "role": "Cloud Computing Intern", "org": "Aagaaz Training Centre" },
-    { "role": "Robotics Intern", "org": "InfinityCore Technologies" }
-  ],
-  "mission": "Architecting resilient, high-throughput architectures by merging sensor telemetry, deep networks, and clean software patterns."
-}
+### 📡 Profile Highlights
+- 🎓 **B.Tech in Computer Science & Engineering** @ Shershah Engineering College, Sasaram (2022–2026)[span_0](start_span)[span_0](end_span)
+- 🤖 **Focus:** Deep Learning (CNNs), Machine Learning Pipelines, Real-Time IoT Telemetry & Full-Stack Systems[span_1](start_span)[span_1](end_span)
+- 💼 **Internship Track:** Signal & Telecom Intern @ East Central Railway[span_2](start_span)[span_2](end_span) | Cloud Computing Intern @ Aagaaz Training Centre[span_3](start_span)[span_3](end_span) | Robotics Intern @ InfinityCore Technologies[span_4](start_span)[span_4](end_span)
 ---
 
 ### 🧩 Production Technology Stack
