@@ -21,6 +21,7 @@
 - 🎓 **B.Tech in Computer Science & Engineering** @ Shershah Engineering College, Sasaram (2022–2026)[span_0](start_span)[span_0](end_span)
 - 🤖 **Focus:** Deep Learning (CNNs), Machine Learning Pipelines, Real-Time IoT Telemetry & Full-Stack Systems[span_1](start_span)[span_1](end_span)
 - 💼 **Internship Track:** Signal & Telecom Intern @ East Central Railway[span_2](start_span)[span_2](end_span) | Cloud Computing Intern @ Aagaaz Training Centre[span_3](start_span)[span_3](end_span) | Robotics Intern @ InfinityCore Technologies[span_4](start_span)[span_4](end_span)
+
 ---
 
 ### 🧩 Production Technology Stack
@@ -78,6 +79,7 @@
     </tr>
   </tbody>
 </table>
+
 ---
 
 ### 🧬 Featured Repositories & Implementations
@@ -86,45 +88,45 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/priyanshu18611/EcoSentinel">01 // EcoSentinel: Autonomous IoT Tracking</a></h4>
-      <p>Mission-critical wildlife conservation telemetry framework tracking simulated smart collar sensors.</p>
+      <p>Mission-critical wildlife conservation telemetry framework tracking simulated smart collar sensors[span_5](start_span)[span_5](end_span).</p>
       <ul>
-        <li>Real-time event-driven streaming with sub-second alert latency using <b>Socket.io</b>.</li>
-        <li>Interactive geospatial geofencing & biometrics mapping with <b>Leaflet</b>.</li>
-        <li>Stateless security model with tokenized role-based <b>JWT validation</b>.</li>
+        <li>Real-time event-driven streaming with sub-second alert latency using <b>Socket.io</b>[span_6](start_span)[span_6](end_span).</li>
+        <li>Interactive geospatial geofencing & biometrics mapping with <b>Leaflet</b>[span_7](start_span)[span_7](end_span).</li>
+        <li>Stateless security model with tokenized role-based <b>JWT validation</b>[span_8](start_span)[span_8](end_span).</li>
       </ul>
-      <code>MERN Stack</code> • <code>Hardware Emulation</code> • <code>WebSockets</code>
+      <code>MERN Stack</code> • <code>Hardware Emulation</code> • <code>WebSockets</code>[span_9](start_span)[span_9](end_span)
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/priyanshu18611/brain-tumor-detection">02 // Deep Vision: Brain Tumor Classifier</a></h4>
-      <p>Production computer vision pipeline detecting neurological abnormalities in MRI brain scans.</p>
+      <p>Production computer vision pipeline detecting neurological abnormalities in MRI brain scans[span_10](start_span)[span_10](end_span).</p>
       <ul>
-        <li>Multi-stage custom CNN containing 4 Convolutional blocks & Batch Normalization.</li>
-        <li>Integrated Dropout regularization preventing overfitting on augmented imagery.</li>
-        <li>Robust evaluation metrics: confusion matrices, loss convergence plots, and ROC.</li>
+        <li>Multi-stage custom CNN containing 4 Convolutional blocks & Batch Normalization[span_11](start_span)[span_11](end_span).</li>
+        <li>Integrated Dropout regularization preventing overfitting on augmented imagery[span_12](start_span)[span_12](end_span).</li>
+        <li>Robust evaluation metrics: confusion matrices, loss convergence plots, and ROC[span_13](start_span)[span_13](end_span).</li>
       </ul>
-      <code>TensorFlow</code> • <code>Keras</code> • <code>OpenCV</code> • <code>CNN</code>
+      <code>TensorFlow</code> • <code>Keras</code> • <code>OpenCV</code> • <code>CNN</code>[span_14](start_span)[span_14](end_span)
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/priyanshu18611/enterprise-sales-analytics">03 // Enterprise Sales Intelligence Engine</a></h4>
-      <p>Data warehouse architecture mapping non-relational business transactional logs into dimensional models.</p>
+      <p>Data warehouse architecture mapping non-relational business transactional logs into dimensional models[span_15](start_span)[span_15](end_span).</p>
       <ul>
-        <li>Clean Python ETL processing pipeline modeled around a pure <b>Star Schema</b>.</li>
-        <li>Customer segmentation via <b>RFM scoring</b> and unsupervised K-Means clustering.</li>
-        <li>Interactive Power BI dashboards driven by advanced <b>DAX time-intelligence</b> KPIs.</li>
+        <li>Clean Python ETL processing pipeline modeled around a pure <b>Star Schema</b>[span_16](start_span)[span_16](end_span).</li>
+        <li>Customer segmentation via <b>RFM scoring</b> and unsupervised K-Means clustering[span_17](start_span)[span_17](end_span).</li>
+        <li>Interactive Power BI dashboards driven by advanced <b>DAX time-intelligence</b> KPIs[span_18](start_span)[span_18](end_span).</li>
       </ul>
-      <code>ETL</code> • <code>Star Schema</code> • <code>SQL Window Functions</code> • <code>Power BI</code>
+      <code>ETL</code> • <code>Star Schema</code> • <code>SQL Window Functions</code> • <code>Power BI</code>[span_19](start_span)[span_19](end_span)
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/priyanshu18611/Cricket-Score-Predictor">04 // Dynamic Sports Regressor</a></h4>
-      <p>High-precision score regression engine predicting final totals in limited-overs matches.</p>
+      <p>High-precision score regression engine predicting final totals in limited-overs matches[span_20](start_span)[span_20](end_span).</p>
       <ul>
-        <li>Trained on cleaned historical ball-by-ball tournament databases using <b>XGBoost</b>.</li>
-        <li>Dynamic inference engine updating predictions against run rate, wickets, and overs.</li>
+        <li>Trained on cleaned historical ball-by-ball tournament databases using <b>XGBoost</b>[span_21](start_span)[span_21](end_span).</li>
+        <li>Dynamic inference engine updating predictions against run rate, wickets, and overs[span_22](start_span)[span_22](end_span).</li>
         <li>Packaged and deployed via an intuitive <b>Streamlit</b> cloud UI.</li>
       </ul>
-      <code>XGBoost</code> • <code>Pandas</code> • <code>Streamlit</code> • <code>Scikit-Learn</code>
+      <code>XGBoost</code> • <code>Pandas</code> • <code>Streamlit</code> • <code>Scikit-Learn</code>[span_23](start_span)[span_23](end_span)
     </td>
   </tr>
   <tr>
@@ -140,6 +142,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🐍 GitHub Contribution Eater
