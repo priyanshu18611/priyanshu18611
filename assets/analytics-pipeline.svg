@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0EA5E9"/><stop offset="1" stop-color="#14B8A6"/></linearGradient></defs>
+<rect width="980" height="330" rx="28" fill="#020617"/>
+<rect x="1" y="1" width="978" height="328" rx="27" fill="none" stroke="#1e293b"/>
+<circle cx="60" cy="55" r="18" fill="url(#g)"/>
+<text x="95" y="62" font-family="Inter,Arial" font-weight="700" font-size="30" fill="#f8fafc">ANALYTICS PIPELINE</text>
+<text x="95" y="92" font-family="Inter,Arial" font-size="15" fill="#94a3b8">A repeatable workflow for data-driven products</text>
+<g transform="translate(95,145)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Collect</text>
+</g><g transform="translate(380,145)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Clean</text>
+</g><g transform="translate(665,145)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Transform</text>
+</g><g transform="translate(95,223)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Analyze</text>
+</g><g transform="translate(380,223)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Visualize</text>
+</g><g transform="translate(665,223)">
+<rect width="250" height="55" rx="14" fill="#0f172a" stroke="#334155"/>
+<circle cx="25" cy="27" r="7" fill="#38bdf8"/>
+<text x="45" y="34" font-family="Inter,Arial" font-size="16" fill="#e2e8f0">Act</text>
+</g>
+<text x="95" y="300" font-family="JetBrains Mono,monospace" font-size="13" fill="#38bdf8">PRIYANSHU • BUILDING FOR THE REAL WORLD</text>
+</svg>
