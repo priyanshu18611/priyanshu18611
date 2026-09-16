@@ -1,261 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PRIYANSHU%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%2FML&descAlignY=62&descSize=18&color=0:0F172A,45:0EA5E9,100:7C3AED" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Priyanshu Kumar — Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Ideas+Into+Real+Products;Software+Engineering+%E2%80%A2+Full+Stack+%E2%80%A2+Data+Analytics;Python+%E2%80%A2+JavaScript+%E2%80%A2+SQL+%E2%80%A2+APIs;AI%2FML+%E2%80%A2+Cloud+%E2%80%A2+Automation+%E2%80%A2+Problem+Solving" />
-
-<br/>
-
-<a href="https://github.com/priyanshu18611"><img src="https://img.shields.io/badge/GitHub-@priyanshu18611-111827?style=for-the-badge&logo=github" /></a>
-<a href="https://priyanshu18611.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-LIVE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/priyanshu18611"><img src="https://img.shields.io/badge/GitHub-priyanshu18611-0f172a?style=for-the-badge&logo=github" /></a>
+<a href="https://priyanshu18611.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-LIVE-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/priyanshuroy18/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshu18611&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Data+Analytics+%26+Business+Intelligence;AI+%2F+Machine+Learning+Enthusiast;Building+Ideas+Into+Real+Products" />
 
 </div>
 
 ---
 
-## ⚡ `whoami`
+## 🧬 Engineering Identity
 
 ```text
-Priyanshu Kumar
-├── Software Engineer
-├── Full Stack Developer
-├── Data Analytics
-├── AI / Machine Learning
-└── Builder mindset
+PRIYANSHU KUMAR
+│
+├── 💻 Software Engineering
+│   ├── Python • Java • JavaScript
+│   ├── OOP • DSA • REST APIs
+│   └── Backend & scalable application fundamentals
+│
+├── 🌐 Full Stack Development
+│   ├── React • Node.js • Express
+│   ├── Flask • FastAPI
+│   └── SQL • MongoDB • Authentication
+│
+├── 📊 Data Analytics
+│   ├── Python • Pandas • NumPy
+│   ├── SQL • EDA • Data Cleaning
+│   └── Power BI • DAX • KPI Dashboards
+│
+└── 🤖 AI / ML
+    ├── Machine Learning
+    ├── Deep Learning
+    ├── NLP
+    └── Computer Vision
 ```
 
-I build **practical, data-driven and AI-powered software** with a focus on clean architecture, useful user experiences and deployable products.
-
-My sweet spot is where **software engineering + full stack development + analytics + AI** meet.
-
-> **Think → Design → Build → Analyze → Deploy → Improve**
+> **I build software, analyze data, and turn ideas into useful digital products.**
 
 ---
 
-## 🧭 Engineering Focus
+# 🏗️ My Engineering Stack
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 💻 Software Engineering
-- OOP & DSA
-- Backend Engineering
-- REST APIs
-- System Design fundamentals
-- Git / GitHub
-- Debugging & optimization
+<img src="./assets/software-engineering.svg" width="92%" alt="Software Engineering"/>
 
-</td>
-<td width="50%">
+<br/><br/>
 
-### 🌐 Full Stack
-- Frontend development
-- Backend APIs
-- Authentication
-- Databases
-- Real-time systems
-- Cloud deployment
+<img src="./assets/data-analytics.svg" width="92%" alt="Data Analytics"/>
 
-</td>
-</tr>
-<tr>
-<td>
+<br/><br/>
 
-### 📊 Data Analytics
-- SQL analytics
-- Python / Pandas
-- EDA
-- Data cleaning
-- KPI development
-- Power BI / DAX
+<img src="./assets/full-stack.svg" width="92%" alt="Full Stack Development"/>
 
-</td>
-<td>
-
-### 🤖 AI / ML
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Model evaluation
-- AI-powered applications
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Technology Matrix
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### Full Stack
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb" />
-</p>
-
-### Data / AI
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-`Pandas` · `NumPy` · `Scikit-learn` · `SQL` · `Power BI` · `DAX`
-
-### Engineering Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
-</p>
-
----
-
-# 🏗️ How I Build
-
-```text
-                     ┌─────────────────┐
-                     │   REAL PROBLEM  │
-                     └────────┬────────┘
-                              ↓
-                     ┌─────────────────┐
-                     │ REQUIREMENTS    │
-                     └────────┬────────┘
-                              ↓
-              ┌───────────────────────────────┐
-              │ ARCHITECTURE + DATA + UX      │
-              └───────────────┬───────────────┘
-                              ↓
-        ┌─────────────────────┼─────────────────────┐
-        ↓                     ↓                     ↓
-   FRONTEND               BACKEND               AI / DATA
-        │                     │                     │
-        └─────────────────────┼─────────────────────┘
-                              ↓
-                         TEST / DEBUG
-                              ↓
-                          DEPLOYMENT
-                              ↓
-                         ITERATE ♻️
-```
+</div>
 
 ---
 
 # 🚀 Featured Builds
 
-<div align="center">
-
-| Project | Domain | Core Technologies |
-|---|---|---|
-| 🤖 **CareerPilot AI** | AI + Career Tech | Python · FastAPI · AI · APIs |
-| 🌿 **EcoSentinel** | IoT + Full Stack | MERN · Socket.io · JWT |
-| 📊 **Enterprise Sales Analytics** | Data Analytics | Python · SQL · Power BI |
-| 🧠 **Brain Tumor Detection** | Deep Learning | TensorFlow · Keras · OpenCV |
-| 🏏 **Cricket Score Predictor** | ML | Python · Scikit-learn |
-| 🛡️ **Spam Mail Detection** | NLP | TF-IDF · Logistic Regression |
-
-</div>
-
 ### 🤖 CareerPilot AI
 **AI-powered career intelligence platform**
 
-Resume analysis · ATS optimization · job matching · AI career coaching · interview preparation · career roadmap.
+Resume analysis · ATS optimization · job matching · AI career coach · interview preparation · career roadmap.
 
-**Architecture:** `Frontend → REST APIs → Python Backend → AI/Analysis → Deployment`
+`Python` `FastAPI` `AI` `REST APIs` `Full Stack`
+
+---
 
 ### 🌿 EcoSentinel
 **IoT wildlife monitoring platform**
 
 Real-time monitoring concepts, interactive maps, alerts, geofencing and authenticated communication.
 
-**Stack:** `MERN` · `Socket.io` · `JWT` · `Leaflet`
+`MERN` `Socket.io` `JWT` `IoT` `Leaflet`
+
+---
 
 ### 📊 Enterprise Sales Analytics
-**Business intelligence and analytics workflow**
+**Business intelligence & analytics project**
 
 Python ETL · SQL analytics · RFM segmentation · cohort analysis · Power BI dashboards · DAX KPIs.
+
+`Python` `SQL` `Power BI` `DAX` `Scikit-learn`
+
+---
 
 ### 🧠 Brain Tumor Detection
 **Computer vision / deep learning project**
 
 MRI image processing and CNN-based classification workflow.
 
+`Python` `TensorFlow` `Keras` `OpenCV`
+
+---
+
 ### 🏏 Cricket Score Predictor
 **Machine learning prediction application**
 
 Match-state features, preprocessing, model training and prediction interface.
 
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
+
+---
+
 ### 🛡️ Spam Mail Detection
 **NLP classification pipeline**
 
 ```text
-Email → Cleaning → TF-IDF → Logistic Regression → Classification
+Raw Email
+   ↓
+Cleaning
+   ↓
+TF-IDF
+   ↓
+Logistic Regression
+   ↓
+Spam / Not Spam
 ```
 
 ---
 
-# 📊 Data Analytics Pipeline
+# 🌐 Product Architecture
 
 ```text
-RAW DATA
-   │
-   ▼
-┌──────────────┐
-│ Data Quality │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ Cleaning     │
-│ Transform    │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ SQL / Python │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ EDA / Stats  │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ Power BI     │
-│ Dashboards   │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ INSIGHTS     │
-│ → ACTION     │
-└──────────────┘
+                       USER
+                        │
+                        ▼
+              ┌──────────────────┐
+              │    FRONTEND      │
+              │ React / JS / UI  │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │    API LAYER     │
+              │ REST / JSON / JWT│
+              └────────┬─────────┘
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+     ┌─────────┐  ┌──────────┐  ┌─────────┐
+     │ Backend │  │ AI / ML  │  │  Data   │
+     │ Python  │  │ Models   │  │Analytics│
+     └────┬────┘  └────┬─────┘  └────┬────┘
+          │            │             │
+          └────────────┼─────────────┘
+                       ▼
+                ┌─────────────┐
+                │  DATABASE   │
+                │ SQL / NoSQL │
+                └──────┬──────┘
+                       ▼
+                ☁️ DEPLOYMENT
 ```
 
 ---
 
-# 🌐 Full Stack Blueprint
+# 📊 Analytics Mindset
+
+<div align="center">
+
+<img src="./assets/analytics-pipeline.svg" width="92%" alt="Analytics Pipeline"/>
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────┐
-│                 EXPERIENCE                   │
-│        HTML • CSS • JS • React               │
-├──────────────────────────────────────────────┤
-│                  API LAYER                   │
-│             REST • JSON • HTTP               │
-├──────────────────────────────────────────────┤
-│                 APPLICATION                  │
-│   Python • FastAPI • Flask • Node • Express │
-├─────────────────────────┬────────────────────┤
-│       DATABASE          │      AI / ML       │
-│   SQL • MongoDB         │ Models • NLP • CV  │
-├─────────────────────────┴────────────────────┤
-│              DEPLOYMENT / CLOUD              │
-└──────────────────────────────────────────────┘
+DATA → CLEAN → TRANSFORM → ANALYZE → VISUALIZE → INSIGHT → ACTION
 ```
+
+---
+
+# 🤖 AI / ML Playground
+
+<div align="center">
+
+<img src="./assets/ai-ml.svg" width="92%" alt="AI and Machine Learning"/>
+
+</div>
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Model Evaluation`
+
+---
+
+# 🛠️ Technology Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,flask,fastapi,mongodb,mysql,tensorflow,opencv,git,github,docker,aws,vscode,postman" />
+</p>
 
 ---
 
@@ -263,8 +201,9 @@ RAW DATA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu18611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu18611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 
 <br/><br/>
 
@@ -274,99 +213,70 @@ RAW DATA
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Matrix
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🎯 Current Mission
+# 🎯 Engineering Roadmap
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    2026 → ENGINEERING                    │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ████████████████████  Software Engineering              │
-│  ████████████████████  Full Stack Development            │
-│  ███████████████████░  Data Analytics                    │
-│  ██████████████████░░  AI / Machine Learning             │
-│  ████████████████░░░░  Cloud & Deployment                │
-│  ███████████████░░░░░  System Design                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+                         2026
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+      SOFTWARE         DATA / BI        AI / ML
+          │               │               │
+       Backend          SQL             ML
+       APIs             EDA             DL
+       DSA              Power BI        NLP
+       System Design    DAX             CV
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                  FULL STACK PRODUCTS
+                          │
+                          ▼
+                    CLOUD / DEPLOY
 ```
 
-### Building toward
+---
 
-`Production-grade software` · `Scalable APIs` · `Intelligent data products` · `AI-powered applications`
+# 🧠 Core Computer Science
+
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `SQL` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `REST APIs` · `Git`
 
 ---
 
-# 🧪 Currently Exploring
-
-- Advanced Python
-- Backend & API engineering
-- Full-stack architecture
-- SQL & advanced analytics
-- Power BI / DAX
-- Machine Learning
-- AI application development
-- Cloud deployment
-- System design
-- DSA & problem solving
-
----
-
-# 🏆 Experience & Learning
+# 🏆 Experience
 
 ### 🚆 East Central Railway — S&T Internship
-Exposure to:
-`Optical Fibre Communication` · `Telephone Exchange` · `Quad Cable Communication` · `Public Announcement Systems` · `PRS / UTS` · `Mobile Train Radio Communication`
+
+Exposure to Optical Fibre Communication, Telephone Exchange, Quad Cable Communication, Public Announcement Systems, PRS/UTS systems and Mobile Train Radio Communication.
 
 ### 🛡️ Cisco — Introduction to Cybersecurity
-Fundamentals of cybersecurity, threat awareness and defensive concepts.
+
+Fundamental cybersecurity, threat awareness and defensive concepts.
 
 ---
 
-# 🧠 CS Foundation
+# 🔭 Building Philosophy
 
 ```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-SQL
-Operating Systems
-Computer Networks
-Software Engineering
-REST APIs
-Git & GitHub
-Problem Solving
+01  Understand the problem
+02  Design before coding
+03  Build modular systems
+04  Make data useful
+05  Automate what can be automated
+06  Test and debug
+07  Deploy
+08  Keep improving
 ```
-
----
-
-# 📡 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/priyanshu18611">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-111827?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/priyanshuroy18/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-2563EB?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://priyanshu18611.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-EXPLORE-06B6D4?style=for-the-badge&logo=googlechrome" />
-</a>
-
-</div>
 
 ---
 
@@ -374,16 +284,16 @@ Problem Solving
 
 ### `Software Engineer` · `Full Stack Developer` · `Python Developer` · `Data Analyst` · `AI/ML`
 
-Interested in opportunities where I can contribute to real products, work with strong engineering teams and continue growing across **software, data and AI**.
+Interested in real-world engineering problems, collaborative teams, scalable applications and data/AI-driven products.
 
 ---
 
 <div align="center">
 
-### `CODE` · `ANALYZE` · `BUILD` · `DEPLOY` · `EVOLVE`
+### ⚡ CODE • ANALYZE • BUILD • DEPLOY • EVOLVE
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,50:0EA5E9,100:06B6D4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:0EA5E9,100:06B6D4" width="100%" />
 
 </div>
