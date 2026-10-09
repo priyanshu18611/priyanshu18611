@@ -1,205 +1,83 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Priyanshu Kumar — Software Engineer"/>
+# Hi, I'm Priyanshu Kumar 👋
 
-<a href="https://github.com/priyanshu18611"><img src="https://img.shields.io/badge/GitHub-priyanshu18611-111827?style=for-the-badge&logo=github"/></a>
-<a href="https://priyanshu18611.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-LIVE-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/priyanshuroy18/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+### Aspiring Software Developer | Web Development • AI • Data Science
 
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Data+Analytics+%26+Business+Intelligence;AI+%2F+Machine+Learning+Enthusiast;Building+Ideas+Into+Real+Products"/>
+I enjoy building practical projects, exploring new technologies, and turning ideas into useful digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-priyanshu18611-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu18611)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshuroy18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://priyanshu18611.github.io/portfolio/)
+
 </div>
 
 ---
 
-## 🧬 Engineering Identity
+## 👨‍💻 About Me
 
-```text
-PRIYANSHU KUMAR
-├── 💻 Software Engineering
-│   ├── Python • Java • JavaScript
-│   ├── OOP • DSA • REST APIs
-│   └── Backend & application fundamentals
-├── 🌐 Full Stack Development
-│   ├── React • Node.js • Express
-│   ├── Flask • FastAPI
-│   └── SQL • MongoDB • Authentication
-├── 📊 Data Analytics
-│   ├── Python • Pandas • NumPy
-│   ├── SQL • EDA • Data Cleaning
-│   └── Power BI • DAX • KPI Dashboards
-└── 🤖 AI / ML
-    ├── Machine Learning
-    ├── Deep Learning
-    ├── NLP
-    └── Computer Vision
-```
+- 🎓 B.Tech in Computer Science and Engineering, 2026
+- 💻 Interested in software engineering, web development, and AI-powered applications
+- 🌱 Continuously learning by building and improving real-world projects
+- 🧩 Enjoy debugging, problem-solving, and exploring new tools
+- 🎯 Goal: grow as a software developer and contribute to useful products
 
-> **I build software, analyze data, and turn ideas into useful digital products.**
+## 🛠️ Tech Stack
 
-# 🏗️ My Engineering Stack
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Web & Backend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Focus |
+|---|---|
+| [NEXUS AI](https://github.com/priyanshu18611/nexus-ai) | Futuristic AI-inspired web experience |
+| [CareerPilot AI](https://github.com/priyanshu18611/careerpilot-ai) | AI-powered career and resume assistance concept |
+| [SmartSchool360](https://github.com/priyanshu18611/SmartSchool360) | School management system / ERP project |
+| [EcoSentinel](https://github.com/priyanshu18611/EcoSentinel) | Wildlife conservation and IoT-inspired application |
+| [Other repositories](https://github.com/priyanshu18611?tab=repositories) | Explore my other projects, including machine learning, resume parsing, and dashboards |
+
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="./assets/software-engineering.svg" width="92%" alt="Software Engineering"/>
-<br/><br/>
-<img src="./assets/data-analytics.svg" width="92%" alt="Data Analytics"/>
-<br/><br/>
-<img src="./assets/full-stack.svg" width="92%" alt="Full Stack Development"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu18611&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18611&layout=compact&hide_border=true&theme=tokyonight)
+
 </div>
 
----
+## 🤝 Connect With Me
 
-# 🚀 Featured Builds
-
-### 🤖 CareerPilot AI
-AI-powered career intelligence platform for resume analysis, ATS optimization, job matching, AI career coaching, interview preparation and career roadmaps.
-
-`Python` `FastAPI` `AI` `REST APIs` `Full Stack`
-
-### 🌿 EcoSentinel
-IoT wildlife monitoring platform with real-time monitoring concepts, maps, alerts, geofencing and authenticated communication.
-
-`MERN` `Socket.io` `JWT` `IoT` `Leaflet`
-
-### 📊 Enterprise Sales Analytics
-Business intelligence workflow with Python ETL, SQL analytics, RFM segmentation, cohort analysis, Power BI and DAX KPIs.
-
-`Python` `SQL` `Power BI` `DAX`
-
-### 🧠 Brain Tumor Detection
-Computer vision / deep learning project using MRI image processing and CNN-based classification.
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
-### 🏏 Cricket Score Predictor
-Machine learning prediction application using match-state features and a prediction interface.
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
-
-### 🛡️ Spam Mail Detection
-NLP classification pipeline using TF-IDF and Logistic Regression.
-
-```text
-Email → Cleaning → TF-IDF → Logistic Regression → Classification
-```
-
----
-
-# 🌐 Product Architecture
-
-```text
-USER
-  ↓
-FRONTEND → API LAYER → BACKEND
-                         ↓
-             ┌───────────┼───────────┐
-             ↓           ↓           ↓
-          DATABASE     AI / ML    ANALYTICS
-             └───────────┼───────────┘
-                         ↓
-                    DEPLOYMENT
-```
-
-# 📊 Analytics Mindset
-
-<div align="center">
-<img src="./assets/analytics-pipeline.svg" width="92%" alt="Analytics Pipeline"/>
-</div>
-
-`DATA → CLEAN → TRANSFORM → ANALYZE → VISUALIZE → INSIGHT → ACTION`
-
-# 🤖 AI / ML Playground
-
-<div align="center">
-<img src="./assets/ai-ml.svg" width="92%" alt="AI and Machine Learning"/>
-</div>
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Model Evaluation`
-
----
-
-# 🛠️ Technology Arsenal
-
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="55"/>
-</p>
-
-### 🌐 Full Stack & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,mysql" height="55"/>
-</p>
-
-### 🤖 AI / ML & Data
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="55"/>
-</p>
-
-`Pandas` · `NumPy` · `Scikit-learn` · `SQL` · `Power BI` · `DAX`
-
-### 🔧 Tools & Engineering
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" height="55"/>
-</p>
-
-`REST APIs` · `Authentication` · `JWT` · `Data Cleaning` · `EDA` · `Dashboards` · `Deployment`
-
----
-
-# 📈 GitHub Intelligence
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu18611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu18611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com?user=priyanshu18611&theme=tokyonight&hide_border=true&mode=weekly" width="70%"/>
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-</div>
-
----
-
-# 🎯 Current Mission
-
-```text
-💻 Advanced Software Engineering
-🌐 Full Stack Application Development
-📊 Advanced Data Analytics
-📈 Power BI & Business Intelligence
-🤖 AI / Machine Learning
-☁️ Cloud & Deployment
-🧠 DSA & Problem Solving
-🏗️ System Design
-```
-
-# 🏆 Experience
-
-### 🚆 East Central Railway — S&T Internship
-Exposure to Optical Fibre Communication, Telephone Exchange, Quad Cable Communication, Public Announcement Systems, PRS/UTS systems and Mobile Train Radio Communication.
-
-### 🛡️ Cisco — Introduction to Cybersecurity
-Fundamental cybersecurity, threat awareness and defensive concepts.
-
----
-
-# 💼 Open to Opportunities
-
-### `Software Engineer` · `Full Stack Developer` · `Python Developer` · `Data Analyst` · `AI/ML`
-
-Interested in real-world engineering problems, collaborative teams, scalable applications and data/AI-driven products.
+- 💼 LinkedIn: [Priyanshu Kumar](https://www.linkedin.com/in/priyanshuroy18)
+- 🌐 Portfolio: [Portfolio website](https://priyanshu18611.github.io/portfolio/)
+- 📸 Instagram: [@_impriyanshuroy_](https://www.instagram.com/_impriyanshuroy_)
+- 🎬 YouTube: [@priyanshuroy_vlogs](https://youtube.com/@priyanshuroy_vlogs)
+- 𝕏 X: [@thepriyanshuroy](https://x.com/thepriyanshuroy)
 
 ---
 
 <div align="center">
 
-### ⚡ CODE • ANALYZE • BUILD • DEPLOY • EVOLVE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:0EA5E9,100:06B6D4" width="100%"/>
+**Learn consistently. Build with purpose. Improve every day.** 🚀
 
 </div>
